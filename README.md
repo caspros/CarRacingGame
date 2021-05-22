@@ -1,5 +1,5 @@
 # CarRacingGame
-Car Racing Game in C#
+Simple Car Racing Game in C#
 
 <center><b>Game Preview:</b></center><br>
 
